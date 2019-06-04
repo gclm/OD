@@ -10,7 +10,7 @@
 <html>
 <head>
         <meta charset="utf-8">
-        <title>欢迎访问组织部互评系统xxx</title>
+        <title>欢迎访问组织部互评系统</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="${pageContext.request.contextPath}/css/reset.css">
@@ -28,7 +28,7 @@
     <body>
      <div class="connect">
         <div class="page-container">
-            <h1>河南科技学院干部评价系统</h1>
+            <h1>河南科技学院干部评价系统xxxxx</h1>
            <form name="fosrm" id="form" action="${pageContext.request.contextPath }/user/login" method="post">
             	<input type="hidden" id="address" value="<%=basePath %>">
 
