@@ -28,7 +28,7 @@
     <body>
      <div class="connect">
         <div class="page-container">
-            <h1>河南科技学院干部评价系统xxxxx</h1>
+            <h1>河南科技学院干部评价系统</h1>
            <form name="fosrm" id="form" action="${pageContext.request.contextPath }/user/login" method="post">
             	<input type="hidden" id="address" value="<%=basePath %>">
 
